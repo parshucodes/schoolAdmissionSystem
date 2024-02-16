@@ -1,0 +1,14 @@
+C:\Users\parsh\Documents\Projects\schooladmission\bin\Debug\net6.0\SchoolAdmission.exe
+C:\Users\parsh\Documents\Projects\schooladmission\bin\Debug\net6.0\SchoolAdmission.deps.json
+C:\Users\parsh\Documents\Projects\schooladmission\bin\Debug\net6.0\SchoolAdmission.runtimeconfig.json
+C:\Users\parsh\Documents\Projects\schooladmission\bin\Debug\net6.0\SchoolAdmission.dll
+C:\Users\parsh\Documents\Projects\schooladmission\bin\Debug\net6.0\SchoolAdmission.pdb
+C:\Users\parsh\Documents\Projects\schooladmission\obj\Debug\net6.0\SchoolAdmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parsh\Documents\Projects\schooladmission\obj\Debug\net6.0\SchoolAdmission.AssemblyInfoInputs.cache
+C:\Users\parsh\Documents\Projects\schooladmission\obj\Debug\net6.0\SchoolAdmission.AssemblyInfo.cs
+C:\Users\parsh\Documents\Projects\schooladmission\obj\Debug\net6.0\SchoolAdmission.csproj.CoreCompileInputs.cache
+C:\Users\parsh\Documents\Projects\schooladmission\obj\Debug\net6.0\SchoolAdmission.dll
+C:\Users\parsh\Documents\Projects\schooladmission\obj\Debug\net6.0\refint\SchoolAdmission.dll
+C:\Users\parsh\Documents\Projects\schooladmission\obj\Debug\net6.0\SchoolAdmission.pdb
+C:\Users\parsh\Documents\Projects\schooladmission\obj\Debug\net6.0\SchoolAdmission.genruntimeconfig.cache
+C:\Users\parsh\Documents\Projects\schooladmission\obj\Debug\net6.0\ref\SchoolAdmission.dll
